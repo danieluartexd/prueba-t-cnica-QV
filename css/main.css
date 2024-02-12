@@ -1,0 +1,14 @@
+<style>
+    .navbar-custom {
+        background-image: url('img/slide-paginaprincipal_optimized_optimized.01-(1).png');
+        background-size: cover;
+        background-position: center;
+        height: 20rem;
+    }
+    .custom-a1
+    {
+      position: relative;
+      /*left: 10rem;*/
+      bottom: 8rem; 
+    }
+</style>
